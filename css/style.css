@@ -1,0 +1,30 @@
+a:link,
+a:visited {
+  text-decoration: none;
+  color: #333;
+}
+
+.btn {
+  background: light-green;
+  border-radius: 10px;
+  border: 1px solid green;
+  padding: 6px 10px;
+}
+
+.btn:hover {
+  background: green;
+  color: white;
+}
+
+div#results {
+  margin-top: 20px;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+}
+
+li {
+  border:1px solid black
+}
